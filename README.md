@@ -15,8 +15,7 @@ To strengthen my **Data Structures & Algorithms** knowledge for **FAANG-level in
 ## 📚 What’s Inside
 
 - ✅ Easy, Medium, and Hard problems  
-- ✅ All core topics (Trees, DP, Graphs, etc.)  
-- ✅ Dry run examples and logic breakdown  
+- ✅ All core topics (Trees, DP, Graphs, etc.)
 - ✅ Comments for clarity  
 - ✅ Clean Java code  
 - ✅ Problem link + my thoughts  
