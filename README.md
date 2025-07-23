@@ -1,28 +1,27 @@
-# 🚀 LeetCode 240Q: Beginner to Advanced
-My personal journey of solving 240 LeetCode problems - from beginner to advanced - with clean Java code, optimized solutions.
+# 🚀 Grind 169: My LeetCode DSA Journey (Java)
 
-Welcome to my DSA journey!  
-This repository contains **240 LeetCode problems** solved using Java — with clean, optimized code and easy-to-understand explanations.
+Welcome to my **Grind 169 challenge**!  
+This repository tracks my journey of solving **169 LeetCode problems** — from beginner to advanced  using clean, optimized Java code and crystal-clear explanations.
 
 ---
 
-## 📌 Why I Built This
+## 📌 Why I Started This
 
-To strengthen my **Data Structures & Algorithms** knowledge for **FAANG-level interviews**, and help others learn in a structured way.
+To **master Data Structures & Algorithms** for **top tech interviews (FAANG, Product-Based Companies)** and to help others learn through structured, well-documented solutions.
 
 ---
 
 ## 📚 What’s Inside
 
-- ✅ Easy, Medium, and Hard problems  
-- ✅ All core topics (Trees, DP, Graphs, etc.)
-- ✅ Comments for clarity  
-- ✅ Clean Java code  
-- ✅ Problem link + my thoughts  
+- ✅ 169 handpicked LeetCode problems from the **Grind 169 sheet**  
+- ✅ All difficulty levels: Easy, Medium, Hard  
+- ✅ Clean, commented Java code  
+- ✅ Problem link + my insights/approach  
+- ✅ Step-by-step optimizations where applicable
 
 ---
 
-## 🧠 Categories Covered
+## 🧠 Topics Covered
 
 - Arrays & Strings  
 - Binary Trees  
@@ -31,18 +30,24 @@ To strengthen my **Data Structures & Algorithms** knowledge for **FAANG-level in
 - Two Pointers & Sliding Window  
 - Dynamic Programming  
 - Binary Search  
-- Graphs & BFS/DFS  
+- Graphs (BFS/DFS)  
 - Heaps & Priority Queues  
-- Greedy + Bit Manipulation  
+- Greedy & Bit Manipulation  
 
 ---
 
-## 💼 Goal
+## 🎯 Goal
 
-Master DSA step-by-step and build the confidence to crack **top tech interviews**.
+To build deep DSA intuition, improve speed + accuracy, and gain the confidence to crack **FAANG-level and global product company interviews** by the end of 2025.
 
 ---
 
-## ✨ Stay tuned
+## 🔁 Work in Progress
 
-I will be updating this regularly as I complete more problems.
+This is a **live and evolving repository** — I’ll be regularly updating it as I progress through the Grind 169 sheet.
+
+---
+
+## 💬 Let’s Connect
+
+If you’re also grinding DSA or preparing for tech interviews, feel free to connect and collaborate!
