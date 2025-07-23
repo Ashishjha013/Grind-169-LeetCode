@@ -57,7 +57,7 @@ This is a **live and evolving repository** — I’ll keep updating it regularly
 ## 💬 Let’s Connect
 
 If you’re also grinding DSA or preparing for interviews, feel free to connect — let’s grow together!  
-🔗 [LinkedIn](https://www.linkedin.com/in/ashishjha013)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/ashishjha013](https://www.linkedin.com/in/ashishjha13/))  
 📧 ashishjha013@gmail.com
 
 ---
