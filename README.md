@@ -66,6 +66,6 @@ If you’re also grinding DSA or preparing for interviews, feel free to connect 
 
 Here’s the official roadmap I’m following:
 
-🔗 [Grind 169 – LeetCode Problem Sheet by Take U Forward](https://takeuforward.org/interviews/leetcode-grind-169-problems-roadmap/)
+🔗 [Grind 169 – LeetCode Problem Sheet](https://takeuforward.org/interviews/leetcode-grind-169-problems-roadmap/)
 
 > ⭐ Don’t forget to **star** this repo if it helps you!
