@@ -1,5 +1,5 @@
 # 🚀 Grind 169: My LeetCode DSA Journey
-Welcome to my **Grind 169 Challenge**!  
+Welcome to my **Grind 169 Challenge**!
 This repository documents my journey of solving **169 LeetCode problems** from beginner to advanced — using **clean, optimized Java code** and crystal clear explanations.
 
 ---
